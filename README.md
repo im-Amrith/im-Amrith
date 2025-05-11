@@ -53,13 +53,13 @@ Passionate and results-driven software developer with expertise in machine learn
         <br>React
     </td>
     <td align="center" width="96">
-        <img src="https://banner2.cleanpng.com/20180712/ubw/aawzii7zf.webp" alt="Node.js" width="65" height="65" />
+        <img src="https://skillicons.dev/icons?i=nodejsp" alt="Node.js" width="65" height="65" />
         <br>Node.js
     </td>
 </tr>
 <tr>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="TensorFlow" />
+        <img src="https://skillicons.dev/icons?i=tensorflow" width="48" height="48" alt="TensorFlow" />
         <br>TensorFlow
     </td>
     <td align="center" width="96">
