@@ -59,7 +59,7 @@ Passionate and results-driven software developer with expertise in machine learn
 </tr>
 <tr>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=tensorflow" width="48" height="48" alt="TensorFlow" />
+        <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="TensorFlow" />
         <br>TensorFlow
     </td>
     <td align="center" width="96">
