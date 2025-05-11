@@ -10,9 +10,6 @@
   </a>
 </h1>
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=amrithesh23&style=flat-square&color=blue" alt="Profile views"/>
-</div>
 
 ## 👨‍💻 About Me
 
@@ -95,16 +92,6 @@ Passionate and results-driven software developer with expertise in machine learn
   <img src="https://img.shields.io/badge/App%20Development-0095D5?style=for-the-badge&logo=kotlin&logoColor=white" alt="App Development"/>
 </div>
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=amrithesh23&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amrithesh23&layout=compact&theme=tokyonight" alt="Top Languages" height="170"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amrithesh23&theme=tokyonight" alt="GitHub Streak"/>
-</div>
 
 ## ⚡ Current Focus
 
