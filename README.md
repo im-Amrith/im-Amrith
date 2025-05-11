@@ -9,10 +9,7 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=2E9CED&center=true&vCenter=true&random=false&width=435&lines=Hello+World!;I'm+Amrithesh+S+Menon;Welcome+to+my+GitHub!" alt="Typing SVG" />
   </a>
 </h1>
-  <div align="center">
-    <img alt="Developer Pic"
-        src="https://tenor.com/en-IN/view/hello-gif-24408882"  width="350"/>    
-  </div>
+  <div class="tenor-gif-embed" data-postid="24408882" data-share-method="host" data-aspect-ratio="0.890625" data-width="100%"><a href="https://tenor.com/view/hello-gif-24408882">Hello Sticker</a>from <a href="https://tenor.com/search/hello-stickers">Hello Stickers</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 
 ## 👨‍💻 About Me
 
