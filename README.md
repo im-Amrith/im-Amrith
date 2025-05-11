@@ -11,7 +11,7 @@
 </h1>
   <div align="center">
     <img alt="Developer Pic"
-        src="https://images.app.goo.gl/kXJn3i6shDPQw79p8"  width="350"/>    
+        src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ftenor.com%2Fsearch%2Fcute-hi-gifs&psig=AOvVaw34OMnTZV5Ib8nTOdQleXd8&ust=1747060816983000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCJCR7O7Sm40DFQAAAAAdAAAAABAE"  width="350"/>    
   </div>
 
 ## 👨‍💻 About Me
