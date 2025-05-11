@@ -9,7 +9,7 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=2E9CED&center=true&vCenter=true&random=false&width=435&lines=Hello+World!;I'm+Amrithesh+S+Menon;Welcome+to+my+GitHub!" alt="Typing SVG" />
   </a>
 </h1>
-  <img src="https://media.tenor.com/O4P2tIR-J80AAAAM/hello.gif" width="100%" alt="Hello Sticker"/>
+  <div><img src="https://media.tenor.com/O4P2tIR-J80AAAAM/hello.gif" width="100%" alt="Hello Sticker"/></div>
 
 
 ## 👨‍💻 About Me
