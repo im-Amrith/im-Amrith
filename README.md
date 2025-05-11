@@ -53,7 +53,7 @@ Passionate and results-driven software developer with expertise in machine learn
         <br>React
     </td>
     <td align="center" width="96">
-        <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2FSubham-Maity%2Fnode-js-full-stack-tutorial&psig=AOvVaw0WkaHfx0LIZOE-wYuyYng-&ust=1747059725485000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCJi1qefOm40DFQAAAAAdAAAAABAE" alt="Node.js" width="65" height="65" />
+        <img src="https://banner2.cleanpng.com/20180712/ubw/aawzii7zf.webp" alt="Node.js" width="65" height="65" />
         <br>Node.js
     </td>
 </tr>
