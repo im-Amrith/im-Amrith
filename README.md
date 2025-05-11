@@ -12,7 +12,7 @@
 </h1>
   <div>
     <img alt="Developer Pic"
-        src="https://github.com/Subham-Maity/subham-maity/blob/master/src/robot.gif?raw=true" width="350"/>    
+        src="https://github.com/Subham-Maity/subham-maity/blob/master/src/robot.gif?raw=true" align="center" width="350"/>    
   </div>
 
 ## 👨‍💻 About Me
