@@ -10,7 +10,9 @@
   </a>
 </h1>
 <img
-            src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32">
+            src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32"></h1>
+    <img alt="Developer Pic"
+        src="https://github.com/Subham-Maity/subham-maity/blob/master/src/robot.gif?raw=true" width="350"/>
 
 ## 👨‍💻 About Me
 
