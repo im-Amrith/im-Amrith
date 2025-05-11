@@ -10,8 +10,7 @@
   </a>
 </h1>
   <div align="center">
-    <img alt="Developer Pic"
-        src="https://github.com/Subham-Maity/subham-maity/blob/master/src/robot.gif?raw=true" width="350"/>
+    <img alt="Developer Pic" src="https://github.com/Subham-Maity/subham-maity/blob/master/src/robot.gif?raw=true" width="350"/>
   </div>
 
 
@@ -53,7 +52,7 @@ Passionate and results-driven software developer with expertise in machine learn
         <br>React
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=nodejsp" alt="Node.js" width="65" height="65" />
+        <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" width="65" height="65" />
         <br>Node.js
     </td>
 </tr>
