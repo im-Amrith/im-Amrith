@@ -49,7 +49,7 @@ Passionate and results-driven software developer with expertise in machine learn
         <br>React
     </td>
     <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/nodejs-icon.svg" alt="Node.js" width="65" height="65" />
+        <img src="[https://techstack-generator.vercel.app/nodejs-icon.svg](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2FSubham-Maity%2Fnode-js-full-stack-tutorial&psig=AOvVaw0WkaHfx0LIZOE-wYuyYng-&ust=1747059725485000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCJi1qefOm40DFQAAAAAdAAAAABAE)" alt="Node.js" width="65" height="65" />
         <br>Node.js
     </td>
 </tr>
